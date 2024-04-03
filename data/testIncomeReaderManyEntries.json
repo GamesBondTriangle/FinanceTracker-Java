@@ -1,0 +1,20 @@
+{"income": [
+  {
+    "date": "2023-02-01",
+    "amount": 54.01,
+    "description": "CIBC",
+    "category": "interest"
+  },
+  {
+    "date": "2023-01-15",
+    "amount": 1345.01,
+    "description": "FortisBC",
+    "category": "salary"
+  },
+  {
+    "date": "2021-01-01",
+    "amount": 54.01,
+    "description": "CIBC",
+    "category": "interest"
+  }
+]}

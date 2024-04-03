@@ -1,0 +1,14 @@
+{"income": [
+  {
+    "date": "2023-02-01",
+    "amount": 54.01,
+    "description": "CIBC",
+    "category": "interest"
+  },
+  {
+    "date": "2023-02-01",
+    "amount": 54.01,
+    "description": "CIBC",
+    "category": "interest"
+  }
+]}

@@ -1,0 +1,14 @@
+{"expenses": [
+  {
+    "date": "2023-01-01",
+    "amount": 30.01,
+    "description": "banana",
+    "category": "grocery"
+  },
+  {
+    "date": "2023-01-01",
+    "amount": 30.01,
+    "description": "banana",
+    "category": "grocery"
+  }
+]}
